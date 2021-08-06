@@ -1,6 +1,10 @@
 # Monte Carlo simulation weighted with Sentiment scores from news data to determine Call and Put Prices
+
+thesis pdf link: https://github.com/gaurav-95/Thesis---Monte-Carlo-Options-using-Sentiment/blob/main/UMDS19001_Gourab_Thesis_MonteCarlo.pdf
  
-<img src=""> 
+<img src="https://github.com/gaurav-95/Thesis---Monte-Carlo-Options-using-Sentiment/blob/main/Images/mcsent.png"> 
+
+<img src="https://github.com/gaurav-95/Thesis---Monte-Carlo-Options-using-Sentiment/blob/main/Images/scape.png"> 
 
 Abstract — Investor sentiment affects the ups and downs of a
 stock according to many previous studies. In this study I produce
