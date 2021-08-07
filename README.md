@@ -6,7 +6,7 @@
 
 <img src="https://github.com/gaurav-95/Thesis---Monte-Carlo-Options-using-Sentiment/blob/main/Images/scape.png"> 
 
-## Abstract — 
+## Abstract:
 Investor sentiment affects the ups and downs of a
 stock according to many previous studies. In this study I produce
 an empirical method of pricing stock options using sentiment
