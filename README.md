@@ -1,12 +1,13 @@
 # Monte Carlo simulation weighted with Sentiment scores from news data to determine Call and Put Prices
 
-Thesis pdf link: https://github.com/gaurav-95/Thesis---Monte-Carlo-Options-using-Sentiment/blob/main/UMDS19001_Gourab_Thesis_MonteCarlo.pdf
+> Thesis pdf link: https://github.com/gaurav-95/Thesis---Monte-Carlo-Options-using-Sentiment/blob/main/UMDS19001_Gourab_Thesis_MonteCarlo.pdf
  
 <img src="https://github.com/gaurav-95/Thesis---Monte-Carlo-Options-using-Sentiment/blob/main/Images/mcsent.png"> 
 
 <img src="https://github.com/gaurav-95/Thesis---Monte-Carlo-Options-using-Sentiment/blob/main/Images/scape.png"> 
 
-Abstract — Investor sentiment affects the ups and downs of a
+## Abstract — 
+Investor sentiment affects the ups and downs of a
 stock according to many previous studies. In this study I produce
 an empirical method of pricing stock options using sentiment
 weights in the way that they are less dependent on rigid measures
@@ -24,7 +25,7 @@ improvements.
 
 Dataset scraped from finviz.com:
 
-Approach:
+## Approach:
 
 1. Generate sentiment scores from news data scraped from finviz.com for US Stocks.
 
@@ -32,7 +33,7 @@ Approach:
 
 3. Perform Monte Carlo simulation to predict for the portfolio based on sentiment weights rather than random weights.
 
-Conclusions:
+## Conclusions:
 
 Clearly sentiments can be a good way to obtain
 daily/weekly/monthly adjusted dynamic portfolios. Rather
@@ -79,32 +80,32 @@ returns,” Available at SSRN 2423362, 2014.
 - [4] W. S. Leung, G. Wong, and W. K. Wong, “Social-media sentiment,
 portfolio complexity, and stock returns,” Portfolio Complexity, and Stock
 Returns (November 24, 2019), 2019.
-[5] D. de Franc¸a Costa and N. F. F. da Silva, “Inf-ufg at fiqa 2018 task
+- [5] D. de Franc¸a Costa and N. F. F. da Silva, “Inf-ufg at fiqa 2018 task
 1: predicting sentiments and aspects on financial tweets and news
 headlines,” in Companion Proceedings of the The Web Conference 2018,
 2018, pp. 1967–1971.
-[6] C.-J. Wang, M.-F. Tsai, T. Liu, and C.-T. Chang, “Financial sentiment
+- [6] C.-J. Wang, M.-F. Tsai, T. Liu, and C.-T. Chang, “Financial sentiment
 analysis for risk prediction,” in Proceedings of the Sixth International
 Joint Conference on Natural Language Processing, 2013, pp. 802–808.
-[7] M. S. Akhtar, A. Kumar, D. Ghosal, A. Ekbal, and P. Bhattacharyya,
+- [7] M. S. Akhtar, A. Kumar, D. Ghosal, A. Ekbal, and P. Bhattacharyya,
 “A multilayer perceptron based ensemble technique for fine-grained
 financial sentiment analysis,” in Proceedings of the 2017 conference on
 empirical methods in natural language processing, 2017, pp. 540–546.
-[8] N. C. Dang, M. N. Moreno-Garc´ıa, and F. De la Prieta, “Sentiment
+- [8] N. C. Dang, M. N. Moreno-Garc´ıa, and F. De la Prieta, “Sentiment
 analysis based on deep learning: A comparative study,” Electronics,
 vol. 9, no. 3, p. 483, 2020.
-[9] A. Martin-Utrera, “Shrinking against sentiment: Exploiting behavioral
+- [9] A. Martin-Utrera, “Shrinking against sentiment: Exploiting behavioral
 biases in portfolio optimization,” Available at SSRN 3551224, 2020.
-[10] H. K. Sul, A. R. Dennis, and L. Yuan, “Trading on twitter: Using social
+- [10] H. K. Sul, A. R. Dennis, and L. Yuan, “Trading on twitter: Using social
 media sentiment to predict stock returns,” Decision Sciences, vol. 48,
 no. 3, pp. 454–488, 2017.
-[11] A. Bandopadhyaya, A. L. Jones et al., “Measures of investor sentiment:
+- [11] A. Bandopadhyaya, A. L. Jones et al., “Measures of investor sentiment:
 A comparative analysis put-call ratio vs. volatility index,” Journal of
 Business & Economics Research (JBER), vol. 6, no. 8, 2008.
-[12] M. Baker and J. Wurgler, “Investor sentiment in the stock market,”
+- [12] M. Baker and J. Wurgler, “Investor sentiment in the stock market,”
 Journal of economic perspectives, vol. 21, no. 2, pp. 129–152, 2007.
-[13] C. Yang, B. Gao, and J. Yang, “Option pricing model with sentiment,”
+- [13] C. Yang, B. Gao, and J. Yang, “Option pricing model with sentiment,”
 Review of Derivatives Research, vol. 19, no. 2, pp. 147–164, 2016.
-[14] R. Hao, “Option pricing model with investor sentiment,” 2017.
-[15] B. Han, “Investor sentiment and option prices,” The Review of Financial
+- [14] R. Hao, “Option pricing model with investor sentiment,” 2017.
+- [15] B. Han, “Investor sentiment and option prices,” The Review of Financial
 Studies, vol. 21, no. 1, pp. 387–414, 2008.
