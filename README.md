@@ -68,15 +68,15 @@ what is used now.
 
 REFERENCES
 
-[1] Z. Ben Ami and R. Feldman, “Event-based trading: Building superior
+- [1] Z. Ben Ami and R. Feldman, “Event-based trading: Building superior
 trading strategies with state-of-the-art information extraction tools,”
 Available at SSRN 2907600, 2017.
-[2] L. A. Smales, “The importance of fear: investor sentiment and stock
+- [2] L. A. Smales, “The importance of fear: investor sentiment and stock
 market returns,” Applied Economics, vol. 49, no. 34, pp. 3395–3421,
 2017.
-[3] P. Hafez and J. Xie, “Web news analytics enhance stock portfolio
+- [3] P. Hafez and J. Xie, “Web news analytics enhance stock portfolio
 returns,” Available at SSRN 2423362, 2014.
-[4] W. S. Leung, G. Wong, and W. K. Wong, “Social-media sentiment,
+- [4] W. S. Leung, G. Wong, and W. K. Wong, “Social-media sentiment,
 portfolio complexity, and stock returns,” Portfolio Complexity, and Stock
 Returns (November 24, 2019), 2019.
 [5] D. de Franc¸a Costa and N. F. F. da Silva, “Inf-ufg at fiqa 2018 task
